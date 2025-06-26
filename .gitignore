@@ -1,0 +1,6 @@
+.venv
+.venvv
+main.py
+media/
+.ropeproject
+requirements.txt
